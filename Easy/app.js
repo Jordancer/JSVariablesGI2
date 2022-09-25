@@ -1,5 +1,5 @@
-const student1 = { fName: "Jordan", lName: "Dancer", age: "25" };
-const student2 = { fName: "Jade", lName: "Dancer", age: "3" };
+const student2 = { fName: "Jordan", lName: "Dancer", age: "25" };
+const student1 = { fName: "Jade", lName: "Dancer", age: "3" };
 const student3 = { fName: "Langston", lName: "Kodzai", age: "25" };
 
 console.log(
