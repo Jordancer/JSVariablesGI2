@@ -8,4 +8,4 @@ function min(x, y) {
   }
 }
 
-console.log(min(1, 11));
+console.log(min(355, 200));
